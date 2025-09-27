@@ -20,8 +20,8 @@ Whether it’s a Kaggle competition, a late-night hackathon, or an exciting inte
 
 - **Languages**: Python 🐍, SQL, Java ☕ , c , c++ , HTML , CSS 
 - **AI & ML**: Scikit-learn, TensorFlow, CNNs, OpenCV, Generative AI  
-- **New Era Tech**: LLMs 🤖, Agentic AI, Docker 🐳  
-- **Tools & Platforms**: Git, Streamlit, MySQL, Azure  
+- **New Era Tech**: LLMs 🤖, Agentic AI, Docker 🐳
+- **Tools & Platforms**: Git, Streamlit, MySQL, Azure, Tableau 
 - **Soft Skills**: Creative Thinking 💡, Teamwork 🤝, Adaptability 🔁, Leadership 👑
 
 ##  Projects I’m Proud Of
@@ -44,13 +44,13 @@ Here are some projects I’ve built with lots of patience, and passion:
 ## 🏆 Achievements
 
 - 🥇 **Kaggle Prize Winner** – Model selection for molecular property prediction  
-- 🧪 **Research Publication** – *Optimised Search Algorithms* (in progress)  
+- 🧪 **Research Publication** – *Optimised Search Algorithms* (published on Springer)  
 - 🥇 Winner – Inter-University Hackathon  
 - ✨ problem solutions across LeetCode, Kaggle, and HackerRank
 - 🛠️ Contributed to open-source & AI research communitie
 
 ## 🎓 Certifications & Internships
-
+- Oracle Certified Foundations Associate
 - **Generative AI** – Microsoft, Google Cloud, LinkedIn  
 - **DSA with Java** – Apna College  
 - **Springboard 6.0 Intern**  
