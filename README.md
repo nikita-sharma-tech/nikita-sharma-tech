@@ -20,9 +20,9 @@ Whether it’s a Kaggle competition, a late-night hackathon, or an exciting inte
 
 - **Languages**: Python 🐍, SQL, Java ☕ , c , c++ , HTML , CSS 
 - **AI & ML**: Scikit-learn, TensorFlow, CNNs, OpenCV, Generative AI  
-- **New Era Tech**: LLMs 🤖, Agentic AI, Docker 🐳
-- **Tools & Platforms**: Git, Streamlit, MySQL, Azure, Tableau 
-- **Soft Skills**: Creative Thinking 💡, Teamwork 🤝, Adaptability 🔁, Leadership 👑
+- **New Era Tech**: LLMs 🤖, Agentic AI, Docker 🐳, FastAPI
+- **Tools & Platforms**: Git, Streamlit, MySQL, Azure, Tableau , PowerBI
+- **Soft Skills**: Creative Thinking 💡, Teamwork 🤝, Quick Learner🔁, Leadership 👑
 
 ##  Projects I’m Proud Of
 
@@ -51,7 +51,8 @@ Here are some projects I’ve built with lots of patience, and passion:
 
 ## 🎓 Certifications & Internships
 - Oracle Certified Foundations Associate
-- **Generative AI** – Microsoft, Google Cloud, LinkedIn  
+- **Generative AI** – Microsoft, Google Cloud, LinkedIn
+- **IIT GUWAHATI** - Data Analytics Internship
 - **DSA with Java** – Apna College  
 - **Springboard 6.0 Intern**  
 - **Aspire Learning Program Intern**  
