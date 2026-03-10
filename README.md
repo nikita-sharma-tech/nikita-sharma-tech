@@ -3,12 +3,12 @@
 Welcome to my corner of the internet where machine learning meets curiosity, creativity meets code, and AI meets real-world impact 
 
 🎓 **Final Year BTech Student @ GNA University**  
-💡 Specializing in **Data Science, Artificial Intelligence, and Computer Vision**  
+💡 Specializing in **Data Science, Artificial Intelligence, and Data Analytics**  
 🌟 On a mission to build tech that *thinks*, *learns*, and *solves problems*
 
 ## 🧠 About Me
 
-I’m a passionate, self-driven tech explorer who loves turning complex ideas into smart AI solutions. From training neural networks to detecting ADHD symptoms to matching resumes with jobs using NLP, I’ve been learning, building, and contributing every single day.
+I’m a passionate, self-driven tech explorer who loves turning complex ideas into smart AI solutions. From training neural networks to detecting ADHD symptoms to matching resumes with jobs using NLP to analyzing data using tools like Power BI, Excel, and SQL, I’ve been learning, building, and contributing every single day.
 
 🔍 My journey began with curiosity. It turned into projects.  
 🛠️ My projects turned into achievements.  
@@ -18,11 +18,11 @@ Whether it’s a Kaggle competition, a late-night hackathon, or an exciting inte
 
 ##  Skills & Superpowers
 
-- **Languages**: Python 🐍, SQL, Java ☕ , c , c++ , HTML , CSS 
+- **Languages**: Python 🐍, SQL, Java ☕ , c , c++ , HTML , CSS ,Javascript
 - **AI & ML**: Scikit-learn, TensorFlow, CNNs, OpenCV, Generative AI  
-- **New Era Tech**: LLMs 🤖, Agentic AI, Docker 🐳, FastAPI
-- **Tools & Platforms**: Git, Streamlit, MySQL, Azure, Tableau , PowerBI
-- **Soft Skills**: Creative Thinking 💡, Teamwork 🤝, Quick Learner🔁, Leadership 👑
+- **New Era Tech**: LLMs 🤖, Agentic AI, Docker 🐳, FastAPI, PostreSQL
+- **Tools & Platforms**: Git, Excel, Streamlit, MySQL, Azure, Tableau, Power BI
+- **Soft Skills**: Creative Thinking 💡, Teamwork 🤝, Quick Learner🔁, Leadership 👑, Story Telling
 
 ##  Projects I’m Proud Of
 
